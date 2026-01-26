@@ -1,0 +1,87 @@
+TERMS OF USE FOR Vector Application Framework - Community Edition
+
+For the use of this software Vector Application Framework - Community Edition
+(as defined below) the following Terms of Use shall apply.
+
+When using the software, all applicable safety instructions and professional due
+diligence must be observed. For safety instructions please refer to the
+applicable user manual and/or to notices provided in appropriate places during
+use of the software.
+
+Copyright © Vector Informatik GmbH, Ingersheimer Str. 24, 70499 Stuttgart,
+Germany ("Vector").
+
+All rights reserved.
+
+1. License 
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation (the "Software") to use the Software
+for the user's own purposes, subject to the following conditions ("limited and
+non-exclusive license"). In the event of a violation of the terms set forth
+herein Vector shall be entitled to revoke this license.
+
+2. License Restrictions 
+
+It is prohibited to use the Software for any commercial purpose (the use for
+research and development ("R&D") is not prohibited); reverse engineer,
+decompile, or disassemble the Software; delete or modify any copyright notices
+as they may be included in the Software; use Vector's name, logos and other
+brand designations to endorse or promote products either derived from and/or
+developed and/or configured with the Software; create works derived from the
+Software; redistribute and/or sell copies of the Software; however,
+redistribution of copies (e.g. via an internal network among affiliated
+companies), shall be allowed; use the Software outside of the scope of
+"Automotive Applications" and/or "Derived Applications" as defined in the
+applicable AUTOSAR Premium Partner Agreement. "Automotive Applications" means
+use-cases related to engine-powered, land-based, non-railed vehicles, such
+vehicles intended for primary transportation purposes. "Derived Applications"
+means use-cases that are neither an Automotive Application nor in a field of use
+of products or service that falls into the categories of ultra-hazardous
+activities including but not limited to aerospace and aviation, nuclear power,
+chemical and/or biological reactors, petrochemical, or military (except for
+military marine transportation vessels).
+
+3. Updates 
+
+Vector may, at its own discretion and without any particular announcement,
+provide updates and upgrades to the Software via its Websites.
+
+4. Open Source and Third-Party Software 
+
+The use of the Software may be subject to third-party license terms (e.g. if
+open source software and/or other third-party software is included in the
+Software) which - if applicable - are made available in the 3rd party notice
+file with the Software. Such license terms shall apply in addition to, and in
+case of discrepancies, prevail over these Terms of Use.
+
+5. Limitation of Warranty 
+
+The Software is provided "as is". Any express or implied warranties are
+disclaimed, including warranties of merchantability, fitness for a particular
+purpose and noninfringement and that the Software is free of material defects
+and defects of title.
+
+6. Limitation of Liability 
+
+In no event shall Vector be liable for direct, indirect and/or consequential
+damages due to a material defect or defect of title. These limitations shall not
+apply in case of (i) intent or gross negligence, (ii) damages resulting from
+injury to life, the body or health and for claims based on mandatory product
+liability law.
+
+To the extent that norms, standards and/or specifications (in particular AUTOSAR
+Specifications) which have not been developed by Vector, and/or Third Party
+Software (collectively "Third Party Developments") are integrated or implemented
+in the Vector Software, Vector shall not be liable for any infringement of
+intellectual property rights resulting from the Third Party Developments, unless
+Vector had knowledge of such infringements at the time of the download of the
+Software.
+
+7. Applicable law 
+
+These Terms of Use shall be governed by the laws of the Federal Republic of
+Germany to the exclusion of the United Nations Convention on Contracts for the
+International Sale of Goods (CISG). As far as permitted und law, the courts of
+Stuttgart, Germany, will have jurisdiction for all disputes arising from or in
+connection with the interpretation or implementation of these Terms of Use.
